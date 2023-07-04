@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Gupta</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **CodeConnect**
+- 🔭 I’m currently working on **FunFinity**
 
 - 🌱 I’m currently learning **WebRTC, Socket.IO and improving problem solving skills.**
 
